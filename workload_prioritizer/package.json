@@ -1,0 +1,11 @@
+{
+  "name": "workload-prioritizer",
+  "version": "1.0.0",
+  "description": "Workload Prioritizer Application",
+  "scripts": {
+    "serve": "npx serve ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
